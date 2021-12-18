@@ -1,13 +1,10 @@
+/**
+* main - entry points
+* Return - always 0, sucess
+*/
 #include <stdio.h>
-#include <string.h>
-
 int main(void)
 {
-	char str[52];
-
-	strcpy(str, "Programming is like building a multilingual puzzle\n");
-
-	puts(str);
-
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
