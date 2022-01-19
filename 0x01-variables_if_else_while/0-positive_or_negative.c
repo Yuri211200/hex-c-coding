@@ -4,7 +4,7 @@
 
 /**
  * main - function main designed to generate a random number
- * return - returns 0 if the program works
+ * Return: returns 0 if the program works
  */
 int main(void)
 {
