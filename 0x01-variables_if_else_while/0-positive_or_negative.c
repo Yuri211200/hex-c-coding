@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//function main designed to generate a random number
+/*function main designed to generate a random number*/
 int main(void)
 {
 	int n;
